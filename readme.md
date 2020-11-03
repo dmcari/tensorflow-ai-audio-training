@@ -1,5 +1,4 @@
-
-# Tensorflow AI Pipeline
+![Alt text](images/tf-ai-pipe.png?raw=true "tensorflow")
 
 This repository is under development. A classic Machine Learning (Deep Learning) pipeline is shown in Tensorflow for classification of audio signals. At the moment, a notebook was incorporated from where the entire process was triggered. In the future it is sought to factor this code.
 
